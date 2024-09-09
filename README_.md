@@ -1,5 +1,7 @@
 # Credit Card Fraud Detection Project
 
+Dataset: https://1drv.ms/x/c/5ac41d823d64947a/Edu2ne32q8ZJsE-t8fyBajUBbuEs8ONgTcg9LyTJ2vX0Sw?e=NSLfe6
+
 ## Purpose
 This project aims to develop a machine learning model to predict fraudulent credit card transactions.
 

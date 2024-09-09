@@ -65,7 +65,7 @@ For deployment in AWS SageMaker, you can use the trained model (`credit_card_fra
 - `credit_card_fraud_detection_model.pkl`: Saved trained model.
 
 ## Contact Information
-For any questions or issues, please contact [Sneha Patil] at [sneha.khot1995@gmail.com].
+For any questions or issues, please contact [Siva Krishna] at [sivakasagani12@gmail.com].
 
 ---
 Feel free to reach out if you have any questions or need further assistance!
